@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedule on STOR 831 Course site</title>
+    <link>/categories/schedule/</link>
+    <description>Recent content in Schedule on STOR 831 Course site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/schedule/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STOR 831 Fall 2017 Schedule</title>
+      <link>/2017/09/12/stor-831-fall-2017-schedule/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/12/stor-831-fall-2017-schedule/</guid>
+      <description>Semester: Fall 2017
+ Instructor: Shankar Bhamidi
+  See the course syllabus for more information.
+Course Material    Date Lecture Notes    August 22 Motivation Pages 1-9H of Lecture 1  August 24 Basic metric space theory Pages 9I - 1.13  * * * * * * * * * * * * * * * *  —— Homework 0 See file  * * * * * * * * * * * * * * * *  August 29 Portmanteu theorem and convergence determining classes Pages 1.</description>
+    </item>
+    
+  </channel>
+</rss>

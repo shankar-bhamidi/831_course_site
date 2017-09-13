@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2017 on STOR 831 Course site</title>
+    <link>/tags/fall-2017/</link>
+    <description>Recent content in Fall 2017 on STOR 831 Course site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fall-2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STOR 831 Fall 2017 Schedule</title>
+      <link>/2017/09/12/stor-831-fall-2017-schedule/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/12/stor-831-fall-2017-schedule/</guid>
+      <description>Semester: Fall 2017
+ Instructor: Shankar Bhamidi
+  See the course syllabus for more information.
+Course Material    Date Lecture Notes    August 22 Motivation Pages 1-9H of Lecture 1  August 24 Basic metric space theory Pages 9I - 1.13  * * * * * * * * * * * * * * * *  —— Homework 0 See file  * * * * * * * * * * * * * * * *  August 29 Portmanteu theorem and convergence determining classes Pages 1.</description>
+    </item>
+    
+    <item>
+      <title>STOR 831 Course description</title>
+      <link>/2017/09/10/stor-831-course-description/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/10/stor-831-course-description/</guid>
+      <description>Course overview One of the central themes in both the theory and application of probability is understanding asymptotics of a sequence of random objects ${X_n:n\geq 1}$ as $n\to\infty$. In undergraduate probability as well as a first graduate level course in probability, much of the emphasis is on real valued random variables. As we progresses towards the forefront of research, we come across much more complicated objects including:
+ Random objects in function space representing empirical processes derived from a sequence of observations or lengths of queues.</description>
+    </item>
+    
+  </channel>
+</rss>

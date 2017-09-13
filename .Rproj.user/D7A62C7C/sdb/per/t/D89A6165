@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"STOR 831 Fall 2017 Schedule\"\ndate: 2017-09-12\ncategories: [\"Schedule\"]\ntags: [\"Fall 2017\"]\n---\n\n- Semester: Fall 2017\n\n- Instructor: [Shankar Bhamidi](https:shankarbhamidi.web.unc.edu)\n\nSee the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-outline.pdf?dl=0)** for more information. \n\n# **Course Material**\n\n\n| Date | Lecture | Notes |\n|-----------|---------------------------|-----------------------------|\n|**August 22** | Motivation | [Pages 1-9H of Lecture 1](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0) \n|**August 24** | Basic metric space theory | [Pages 9I - 1.13](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0)\n|*  *  *  * |*  *  *  * *  *  *  *|*  *  *  *|\n|------|Homework 0|[See file](https://www.dropbox.com/s/ha8m3dip2i0rc2x/2017_FA_Assignment0.pdf?dl=0)\n|*  *  *  * |*  *  *  * *  *  *  *|*  *  *  *|\n|**August 29** | Portmanteu theorem and convergence determining classes | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0)\n|*  *  *  * |*  *  *  * *  *  *  *|*  *  *  *|\n|------|Homework 1|[See file](https://www.dropbox.com/s/95xz7mpbt3j2zox/2017_FA_Assignment1.pdf?dl=0)\n|*  *  *  * |*  *  *  * *  *  *  *|*  *  *  *|\n|**August 31** | Basic examples in $\\mathbb{R},\\mathbb{R}^k,\\mathbb{R}^\\infty$ | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0)\n|**September 5** | Basic examples continued $C[0,1]$, Product measures | [Pages 2.1 - 2.8](https://www.dropbox.com/s/q1sg2ix6g57c9up/2017_FA_Lecture-2.pdf?dl=0)\n|**September 7**| Covergence in probability, Continuous mapping theorem | [Pages 2.9 - 2.21](https://www.dropbox.com/s/q1sg2ix6g57c9up/2017_FA_Lecture-2.pdf?dl=0), [Pages 3.1 - 3.4](https://www.dropbox.com/s/hnl1pdw0uvgtbor/2017_FA_Lecture-3.pdf?dl=0)\n|*  *  *  * |*  *  *  * *  *  *  *|*  *  *  *|\n|------|Homework 2|[See file](https://www.dropbox.com/s/44b07fsknxtyvno/2017_FA_Assignment2.pdf?dl=0)\n|*  *  *  * |*  *  *  * *  *  *  *|*  *  *  *|\n|**September 12**| Tightness and Prohorov's theorem | [Pages 3.5 - 3.19](https://www.dropbox.com/s/hnl1pdw0uvgtbor/2017_FA_Lecture-3.pdf?dl=0)\n|**September 14**| Concrete examples: $\\mathbb{R}$ | [Pages 4.1 - 4.xx](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0)\n|**September 15**| **Practicum: Skorohod representation** | [Notes](https://www.dropbox.com/s/ak4f12pbbtw0bak/Practicum-skorohod-representation-theorem.pdf?dl=0)\n\n\n\n\n\nThis page was last updated on `r Sys.time()` Eastern Time.\n",
+    "created" : 1505304758018.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1703430786",
+    "id" : "D89A6165",
+    "lastKnownWriteTime" : 1505306865,
+    "last_content_update" : 1505306865389,
+    "path" : "~/Dropbox/TEACHING_MAIN/STOR-831/831_course_site/content/post/course_schedule.Rmd",
+    "project_path" : "content/post/course_schedule.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
