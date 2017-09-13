@@ -34,9 +34,19 @@ See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-out
 |**September 12**| Tightness and Prohorov's theorem | [Pages 3.5 - 3.19](https://www.dropbox.com/s/hnl1pdw0uvgtbor/2017_FA_Lecture-3.pdf?dl=0)
 |**September 14**| Concrete examples: $\mathbb{R}$ | [Pages 4.1 - 4.xx](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0)
 |**September 15**| **Practicum: Skorohod representation** | [Notes](https://www.dropbox.com/s/ak4f12pbbtw0bak/Practicum-skorohod-representation-theorem.pdf?dl=0)
+|**September 19**| xx | [Notes](xx)
+|**September 21**| xx | [Notes](xx)
+|**September 22**| **Practicum: Stein's method** | [Notes](https://www.dropbox.com/s/ek05bkjgjwx4pwa/Practicum_Steins_method.pdf?dl=0), [Additional readings](#stein)
 
+# **Readings**
 
+<a name="stein">
+ **Stein's method**
+</a>
 
-
+- [Nice survey of Normal approximation](https://pdfs.semanticscholar.org/d305/626ef13ca557687965a9e24e89ead0ff1fea.pdf)
+- [Beautiful overview of Stein-Chen for Poisson approximation](http://www.jstor.org/stable/2245366?seq=1#page_scan_tab_contents)
+- [Remembering Wassily Hoeffding](https://projecteuclid.org/euclid.ss/1242049393)
+- [Beautidul thesis on exchangeable pairs and concentration inequalities](https://arxiv.org/abs/math/0507526)
 
 This page was last updated on `r Sys.time()` Eastern Time.
