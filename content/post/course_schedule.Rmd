@@ -26,7 +26,7 @@ See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-out
 |**September 7**| Covergence in probability, Continuous mapping theorem | [Pages 2.9 - 2.21](https://www.dropbox.com/s/q1sg2ix6g57c9up/2017_FA_Lecture-2.pdf?dl=0), [Pages 3.1 - 3.4](https://www.dropbox.com/s/hnl1pdw0uvgtbor/2017_FA_Lecture-3.pdf?dl=0)
 |![alt text](/img/dog.png)|Homework 2|[See file](https://www.dropbox.com/s/44b07fsknxtyvno/2017_FA_Assignment2.pdf?dl=0)
 |**September 12**| Tightness and Prohorov's theorem | [Pages 3.5 - 3.19](https://www.dropbox.com/s/hnl1pdw0uvgtbor/2017_FA_Lecture-3.pdf?dl=0)
-|**September 14**| Concrete examples: $\mathbb{R}$ | [Pages 4.1 - 4.xx](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0)
+|**September 14**| Concrete examples: $\mathbb{R}$ | [Pages 4.1 - 4.xx](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), [Additional readings on CLT](#clt)
 |**September 15**| **Practicum: Skorohod representation** | [Notes](https://www.dropbox.com/s/ak4f12pbbtw0bak/Practicum-skorohod-representation-theorem.pdf?dl=0)
 |**September 19**| xx | [Notes](xx) [Additional readings on MOM](#mom)
 |![alt text](/img/dog.png)|Homework 3|[See file](https://www.dropbox.com/s/pmsi17h1a1oul05/2017_FA_Assignment3.pdf?dl=0)
@@ -48,6 +48,13 @@ Lots of valuable advice for graduate students.
 </a>
 
 - [STOR BIOS Boot camp](http://storbiosbootcamp.web.unc.edu)
+
+
+<a name="clt">
+ **Central Limit Theorem**
+</a>
+
+- [Alan Turing and the CLT](https://www.jstor.org/stable/2974762?seq=1#page_scan_tab_contents) Also has a nice description of the connections between statistics and Turing's work during World War II in breaking the German enigma machine. 
 
 <a name="stein">
  **Stein's method**
