@@ -55,6 +55,7 @@ Lots of valuable advice for graduate students.
 </a>
 
 - [Alan Turing and the CLT](https://www.jstor.org/stable/2974762?seq=1#page_scan_tab_contents) Also has a nice description of the connections between statistics and Turing's work during World War II in breaking the German enigma machine. 
+- [Nice paper on extensions of the Lindeberg technique by Chatterjee](https://projecteuclid.org/euclid.aop/1171377437) Extensions of Wigner's semi-circle law to exchangeable entries are also explored. 
 
 <a name="stein">
  **Stein's method**
