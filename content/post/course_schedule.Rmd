@@ -16,8 +16,8 @@ See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-out
 
 | Date of Lecture| Material covered | Notes |
 |-----------------|---------------------------|-----------------------------|
-|**August 22** | Motivation | [Pages 1-9H of Lecture 1](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0) 
-|**August 24** | Basic metric space theory | [Pages 9I - 1.13](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0)
+|**August 22** | Motivation | [Pages 1-9H of Lecture 1](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0), [Additional readings](#advice)  
+|**August 24** | Basic metric space theory | [Pages 9I - 1.13](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0), [Additional readings](#metric) 
 |![alt text](/img/dog.png)|Homework 0|[See file](https://www.dropbox.com/s/ha8m3dip2i0rc2x/2017_FA_Assignment0.pdf?dl=0)
 |**August 29** | Portmanteu theorem and convergence determining classes | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0)
 |![alt text](/img/dog.png)|Homework 1|[See file](https://www.dropbox.com/s/95xz7mpbt3j2zox/2017_FA_Assignment1.pdf?dl=0)
@@ -33,7 +33,21 @@ See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-out
 |**September 21**| xx | [Notes](xx)
 |**September 22**| **Practicum: Stein's method** | [Notes](https://www.dropbox.com/s/ek05bkjgjwx4pwa/Practicum_Steins_method.pdf?dl=0), [Additional readings](#stein)
 
-# **Readings**
+# **Additional Readings**
+
+<a name="advice">
+ **Advice for graduate students**
+</a>
+
+- [Aldous's review of Sping glasses by Talagrand](https://www.stat.berkeley.edu/~aldous/Misc/talagrand.pdf)
+- [J. Michael's Steele's semi-random rants](http://www-stat.wharton.upenn.edu/~steele/Rants.htm)
+Lots of valuable advice for graduate students.
+
+<a name="metric">
+ **Metric space fundamentals**
+</a>
+
+- [STOR BIOS Boot camp](http://storbiosbootcamp.web.unc.edu)
 
 <a name="stein">
  **Stein's method**
