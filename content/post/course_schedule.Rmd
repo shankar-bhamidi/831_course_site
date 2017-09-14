@@ -33,13 +33,20 @@ See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-out
 |**September 21**| Method of moments | [Notes](xx)
 |**September 22**| **Practicum: Stein's method** | [Notes](https://www.dropbox.com/s/ek05bkjgjwx4pwa/Practicum_Steins_method.pdf?dl=0), [Additional readings](#stein)
 
+# **Main references**
+
+[Convergence of Probability measures](http://search.lib.unc.edu/search?R=UNCb2554346). Large parts of the course follow the 1968 book but we cover an assorted collection of special topics and examples. 
+
+[Durret's Probability Theory and examples](https://services.math.duke.edu/~rtd/PTE/PTEv5a.pdf)
+Fantastic treatment of the Martingale FCLT in Chapter 8. 
+
 # **Additional Readings**
 
 <a name="advice">
  **Advice for graduate students**
 </a>
 
-- [Aldous's review of Sping glasses by Talagrand](https://www.stat.berkeley.edu/~aldous/Misc/talagrand.pdf)
+- [Aldous's review of Spin glasses by Talagrand](https://www.stat.berkeley.edu/~aldous/Misc/talagrand.pdf)
 - [J. Michael's Steele's semi-random rants](http://www-stat.wharton.upenn.edu/~steele/Rants.htm)
 Lots of valuable advice for graduate students.
 

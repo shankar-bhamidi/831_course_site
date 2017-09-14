@@ -7,11 +7,11 @@ tags: ["Fall 2017"]
 ---
 ## Admin details
 
-**Class location:** Hanes 107
+**Class location:** Hanes 107.
 
-**Class time:** 8:00 - 9:15 (Tu-Th)
+**Class time:** 8:00 - 9:15 (Tu-Th).
 
-**Practicum session location:** Hanes 125
+**Practicum session location:** Hanes 125.
 
 **Practicum time:** 12:00 - 1:00 (Friday). Will be held approximately every other week though look at the course schedule for exact dates. 
 
