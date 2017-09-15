@@ -35,9 +35,9 @@ See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-out
 
 # **Main references**
 
-[Convergence of Probability measures](http://search.lib.unc.edu/search?R=UNCb2554346). Large parts of the course follow the 1968 book but we cover an assorted collection of special topics and examples. 
+1. [Convergence of Probability measures](http://search.lib.unc.edu/search?R=UNCb2554346). Large parts of the course follow the 1968 book but we cover an assorted collection of special topics and examples. 
 
-[Durret's Probability Theory and examples](https://services.math.duke.edu/~rtd/PTE/PTEv5a.pdf)
+2. [Durret's Probability Theory and examples](https://services.math.duke.edu/~rtd/PTE/PTEv5a.pdf)
 Fantastic treatment of the Martingale FCLT in Chapter 8. 
 
 # **Additional Readings**
