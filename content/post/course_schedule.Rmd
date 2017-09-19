@@ -82,4 +82,11 @@ Lots of valuable advice for graduate students.
 - [Nice collection of worked out examples](https://www.fernuni-hagen.de/stochastik/downloads/momente.pdf)
 - [A powerful example by a master of the field (Svante Janson)](https://arxiv.org/pdf/1307.6344.pdf)
 - [Not MOM but a beautiful branch of applied probability: Power of two choices](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf)
+
+<a name="cramer-wold">
+ **Cramer-Wold device**
+</a>
+
+- [First 3 pages of this article has a nice application](https://people.orie.cornell.edu/gennady/techreports/NormalityCountsSGSG.pdf)
+
 This page was last updated on `r Sys.time()` Eastern Time.
