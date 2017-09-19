@@ -23,12 +23,12 @@ tags: ["Fall 2017"]
 |![alt text](/img/dog.png)|Homework 0|[See file](https://www.dropbox.com/s/ha8m3dip2i0rc2x/2017_FA_Assignment0.pdf?dl=0) |Scribe
 |**August 29** | Portmanteu theorem and convergence determining classes | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0) |Scribe
 |![alt text](/img/dog.png)|Homework 1|[See file](https://www.dropbox.com/s/95xz7mpbt3j2zox/2017_FA_Assignment1.pdf?dl=0) |Scribe
-|**August 31** | Basic examples in $\mathbb{R},\mathbb{R}^k,\mathbb{R}^\infty$ | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0) |Scribe
-|**September 5** | Basic examples continued $C[0,1]$, Product measures | [Pages 2.1 - 2.8](https://www.dropbox.com/s/q1sg2ix6g57c9up/2017_FA_Lecture-2.pdf?dl=0) |Scribe
+|**August 31** | Basic examples in $\mathbb{R},\mathbb{R}^k,\mathbb{R}^\infty$ | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0) |Samopriya Basu
+|**September 5** | Basic examples continued $C[0,1]$, Product measures | [Pages 2.1 - 2.8](https://www.dropbox.com/s/q1sg2ix6g57c9up/2017_FA_Lecture-2.pdf?dl=0) |Samopriya Basu
 |**September 7**| Covergence in probability, Continuous mapping theorem | [Pages 2.9 - 2.21](https://www.dropbox.com/s/q1sg2ix6g57c9up/2017_FA_Lecture-2.pdf?dl=0), [Pages 3.1 - 3.4](https://www.dropbox.com/s/hnl1pdw0uvgtbor/2017_FA_Lecture-3.pdf?dl=0) |Scribe
 |![alt text](/img/dog.png)|Homework 2|[See file](https://www.dropbox.com/s/44b07fsknxtyvno/2017_FA_Assignment2.pdf?dl=0) |Scribe
 |**September 12**| Tightness and Prohorov's theorem | [Pages 3.5 - 3.19](https://www.dropbox.com/s/hnl1pdw0uvgtbor/2017_FA_Lecture-3.pdf?dl=0) |Scribe
-|**September 14**| Weak convergence on $\mathbb{R}$, Lindeberg CLT | [Pages 4.1 - 4.8](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), [Additional readings on CLT](#clt) |Scribe
+|**September 14**| Weak convergence on $\mathbb{R}$, Lindeberg CLT | [Pages 4.1 - 4.8](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), [Additional readings on CLT](#clt) |Adam Waterbury
 |**September 15**| **Practicum: Skorohod representation** | [Notes](https://www.dropbox.com/s/ak4f12pbbtw0bak/Practicum-skorohod-representation-theorem.pdf?dl=0) |Scribe
 |**September 19**| Stein's method | [Pages 4.10 - 4.22](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0) [Additional readings](#stein), [MOM](#mom) | Aman Barot
 |![alt text](/img/dog.png)|Homework 3|[See file](https://www.dropbox.com/s/pmsi17h1a1oul05/2017_FA_Assignment3.pdf?dl=0) |Scribe
@@ -70,7 +70,7 @@ Lots of valuable advice for graduate students.
  **Stein's method**
 </a>
 
-- [Nice survey of Normal approximation](https://pdfs.semanticscholar.org/d305/626ef13ca557687965a9e24e89ead0ff1fea.pdf)
+- [Nice survey on Normal approximation using Stein's method](https://pdfs.semanticscholar.org/d305/626ef13ca557687965a9e24e89ead0ff1fea.pdf)
 - [Beautiful overview of Stein-Chen for Poisson approximation](http://www.jstor.org/stable/2245366?seq=1#page_scan_tab_contents)
 - [Remembering Wassily Hoeffding](https://projecteuclid.org/euclid.ss/1242049393)
 - [Beautiful thesis on exchangeable pairs and concentration inequalities](https://arxiv.org/abs/math/0507526)
