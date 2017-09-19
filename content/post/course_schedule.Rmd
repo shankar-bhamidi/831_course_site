@@ -9,7 +9,7 @@ tags: ["Fall 2017"]
 
 - Instructor: [Shankar Bhamidi](https:shankarbhamidi.web.unc.edu)
 
-See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-outline.pdf?dl=0)** for more information. 
+- See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-outline.pdf?dl=0)** for more information. 
 
 - See the following for template of Lecture: [Latex code of Sample](https://www.dropbox.com/s/kuippnxv6tw1gal/sample.tex?dl=0) and corresponding [compiled pdf of Sample](https://www.dropbox.com/s/lg4iibludaets0s/sample.pdf?dl=0). 
 
