@@ -28,9 +28,9 @@ See the **[course syllabus](https://www.dropbox.com/s/4izicnf5nc0rjkp/course-out
 |**September 12**| Tightness and Prohorov's theorem | [Pages 3.5 - 3.19](https://www.dropbox.com/s/hnl1pdw0uvgtbor/2017_FA_Lecture-3.pdf?dl=0)
 |**September 14**| Weak convergence on $\mathbb{R}$, Lindeberg CLT | [Pages 4.1 - 4.8](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), [Additional readings on CLT](#clt)
 |**September 15**| **Practicum: Skorohod representation** | [Notes](https://www.dropbox.com/s/ak4f12pbbtw0bak/Practicum-skorohod-representation-theorem.pdf?dl=0)
-|**September 19**| Stein's method | [Pages 4.10 - 4.23](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0) [Additional readings](#stein)
+|**September 19**| Stein's method, MOM | [Pages 4.10 - 4.32](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0) [Additional readings](#stein), [MOM](#mom)
 |![alt text](/img/dog.png)|Homework 3|[See file](https://www.dropbox.com/s/pmsi17h1a1oul05/2017_FA_Assignment3.pdf?dl=0)
-|**September 21**| Method of moments | [Notes](xx)
+|**September 21**| Characteristic functions | [Notes](xx)
 |**September 22**| **Practicum: Stein's method** | [Notes](https://www.dropbox.com/s/ek05bkjgjwx4pwa/Practicum_Steins_method.pdf?dl=0), [Additional readings](#stein)
 
 # **Main references**
@@ -79,5 +79,5 @@ Lots of valuable advice for graduate students.
 
 - [Nice collection of worked out examples](https://www.fernuni-hagen.de/stochastik/downloads/momente.pdf)
 - [A powerful example by a master of the field (Svante Janson)](https://arxiv.org/pdf/1307.6344.pdf)
-
+- [Not MOM but a beautiful branch of applied probability: Power of two choices](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf)
 This page was last updated on `r Sys.time()` Eastern Time.
