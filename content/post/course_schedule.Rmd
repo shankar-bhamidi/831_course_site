@@ -17,11 +17,11 @@ tags: ["Fall 2017"]
 
 
 | Date of Lecture| Material covered | Notes | Scribe|
-|-----------------|---------------------------|-----------------------------|--------------------|
+|-------------------|---------------------------|-----------------------------|------------------|
 |**August 22** | Motivation | [Pages 1-9H of Lecture 1](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0), [Advice to graduate students](#advice) |Scribe |
 |**August 24** | Basic metric space theory | [Pages 9I - 1.13](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0), [Additional readings on Metric spaces](#metric) |Scribe
 |![alt text](/img/dog.png)|Homework 0|[See file](https://www.dropbox.com/s/ha8m3dip2i0rc2x/2017_FA_Assignment0.pdf?dl=0) |Scribe
-|**August 29** | Portmanteu theorem and convergence determining classes | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0) |Scribe
+|**August 29** | Portmanteu theorem and convergence determining classes | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0) |Yiyao Luo 
 |![alt text](/img/dog.png)|Homework 1|[See file](https://www.dropbox.com/s/95xz7mpbt3j2zox/2017_FA_Assignment1.pdf?dl=0) |Scribe
 |**August 31** | Basic examples in $\mathbb{R},\mathbb{R}^k,\mathbb{R}^\infty$ | [Pages 1.14 - 1.24](https://www.dropbox.com/s/emlqxzcf4b2zqyn/2017_FA_Lecture-1.pdf?dl=0) |Samopriya Basu
 |**September 5** | Basic examples continued $C[0,1]$, Product measures | [Pages 2.1 - 2.8](https://www.dropbox.com/s/q1sg2ix6g57c9up/2017_FA_Lecture-2.pdf?dl=0) |Samopriya Basu
