@@ -74,6 +74,7 @@ Lots of valuable advice for graduate students.
 - [Beautiful overview of Stein-Chen for Poisson approximation](http://www.jstor.org/stable/2245366?seq=1#page_scan_tab_contents)
 - [Remembering Wassily Hoeffding](https://projecteuclid.org/euclid.ss/1242049393)
 - [Beautiful thesis on exchangeable pairs and concentration inequalities](https://arxiv.org/abs/math/0507526)
+- [Birthday problem and random trees](https://projecteuclid.org/download/pdf_1/euclid.ejp/1457376437) Describes a way of constructing random trees using the birthday problem. Deep applications in a number of other areas including the study of the entrance boundary of the additive coalescent. 
 
 <a name="mom">
  **Method of moments**
