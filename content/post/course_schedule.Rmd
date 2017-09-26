@@ -42,9 +42,9 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |![alt text](/img/dog_2.png)|Homework 3|[See file](https://www.dropbox.com/s/pmsi17h1a1oul05/2017_FA_Assignment3.pdf?dl=0) |Scribe
 |**September 21**| Poisson approximation, MOM, Characteristic functions | [Pages 4.Poi-4.34](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), , [Additional readings on MOM](#mom) |Jin Wang
 |**September 22**| **Practicum: Stein's method** | [Notes](https://www.dropbox.com/s/ek05bkjgjwx4pwa/Practicum_Steins_method.pdf?dl=0), [Additional readings](#stein) | Peiyao Wang
-|**September 26**|Characteristic functions, Enter $C[0,1]$| [Pages 4.34-4.35](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), [Pages 5.1 - 5.xx](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0) |Scribe
+|**September 26**|Characteristic functions, Enter $C[0,1]$| [Pages 4.34-4.35](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), [Pages 5.1 - 5.11](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0), [Additional readings](#AS) |Scribe
 |**September 28**| $C[0,1]$ continued | [Pages 5.xx-5.xx](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0) |Scribe
-|![alt text](/img/dog.png)|Homework 4|[See file](https://www.dropbox.com/s/1hw37z5u4f29eml/2017_FA_Assignment4.pdf?dl=0) |Scribe
+|![alt text](/img/dog_4.png)|Homework 4|[See file](https://www.dropbox.com/s/1hw37z5u4f29eml/2017_FA_Assignment4.pdf?dl=0) |Scribe
 
 # **Main references**
 
@@ -101,5 +101,11 @@ Lots of valuable advice for graduate students.
 </a>
 
 - [First 3 pages of this article has a nice application](https://people.orie.cornell.edu/gennady/techreports/NormalityCountsSGSG.pdf)
+
+<a name="AS">
+ **Compactness/Arzela-Ascoli**
+</a>
+
+- [Comprehensive discussion of compactness etc on Terry Tao's blog](https://terrytao.wordpress.com/2009/02/09/245b-notes-10-compactness-in-topological-spaces/)
 
 This page was last updated on `r Sys.time()` Eastern Time.
