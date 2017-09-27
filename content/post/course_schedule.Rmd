@@ -43,7 +43,11 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |**September 21**| Poisson approximation, MOM, Characteristic functions | [Pages 4.Poi-4.34](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), , [Additional readings on MOM](#mom) |Jin Wang
 |**September 22**| **Practicum: Stein's method** | [Notes](https://www.dropbox.com/s/ek05bkjgjwx4pwa/Practicum_Steins_method.pdf?dl=0), [Additional readings](#stein) | Peiyao Wang
 |**September 26**|Characteristic functions, Enter $C[0,1]$| [Pages 4.34-4.35](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), [Pages 5.1 - 5.11](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0), [Additional readings](#AS) |Scribe
-|**September 28**| $C[0,1]$ continued | [Pages 5.xx-5.xx](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0) |Scribe
+|**September 28**| $C[0,1]$ continued | [Pages 5.xx-5.xx](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0)|Scribe
+|**October 3**| Properties of Brownian motion | [Pages 6.xx-6.xx](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0)|Scribe
+|**October 5**| Properties of Brownian motion contd | [Pages 6.xx-6.xx](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0)|Scribe
+|**October 10**| Material | [Pages x.x-x.x](link)|Scribe
+|**October 12**| No class | <a href="Freedom"><img src="https://i.imgur.com/MJp2V7L.gif" align="left" height="100" width="200" ></a>| - 
 |![alt text](/img/dog_4.png)|Homework 4|[See file](https://www.dropbox.com/s/1hw37z5u4f29eml/2017_FA_Assignment4.pdf?dl=0) |Scribe
 
 # **Main references**
