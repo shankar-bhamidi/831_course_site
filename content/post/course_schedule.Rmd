@@ -50,12 +50,22 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |**October 12**| No class | <a href="Freedom"><img src="https://media.giphy.com/media/aiE3JQU3vLqTK/giphy.gif" align="left" height="100" width="200" ></a>| - 
 |![alt text](/img/dog_4.png)|Homework 4|[See file](https://www.dropbox.com/s/1hw37z5u4f29eml/2017_FA_Assignment4.pdf?dl=0) |Scribe
 
-# **Main references**
+# **Main references: Weak convergence**
 
 1. [Convergence of Probability measures](http://search.lib.unc.edu/search?R=UNCb2554346). Large parts of the course follow the 1968 book but we cover an assorted collection of special topics and examples. 
 
 2. [Durret's Probability Theory and examples](https://services.math.duke.edu/~rtd/PTE/PTEv5a.pdf)
 Fantastic treatment of the Martingale FCLT in Chapter 8. 
+
+# **Main references: Local weak convergence**
+
+1. [Aldous and Steele's survey on the Objective method](https://www.stat.berkeley.edu/~aldous/Papers/me101.pdf)
+
+2. [Benjamini and Schramm's work on distribution limits of Planar graphs](https://projecteuclid.org/euclid.ejp/1461097653)
+
+3. [Dembo and Montanari's work on Gibbs measures on sparse random graphs](https://projecteuclid.org/euclid.bjps/1271770268). [Also see](https://projecteuclid.org/euclid.aoap/1268143433)
+
+4. [Side reading: Chapter 8 of Bishop's pattern recognition and machine learning](http://www.springer.com/us/book/9780387310732). Gives a nice overview of probabilistic graphical models. 
 
 # **Additional Readings**
 
