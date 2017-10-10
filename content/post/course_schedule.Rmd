@@ -47,10 +47,10 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |**October 3**| Properties of Brownian motion | [Pages 6.04-6.16](https://www.dropbox.com/s/whfvgd9agpcs1q1/2017_FA_Lecture-6.pdf?dl=0), [Additional readings on Brownian Motion](#bm)|Duyeol Lee
 |**October 5**| Properties of Brownian motion contd | [Pages 6.16-7.04](https://www.dropbox.com/s/whfvgd9agpcs1q1/2017_FA_Lecture-6.pdf?dl=0)|Miheer Dewaskar
 |![alt text](/img/dog_4.png)|Homework 4|[See file](https://www.dropbox.com/s/1hw37z5u4f29eml/2017_FA_Assignment4.pdf?dl=0) |Scribe
-|**October 10**| Material | [Pages 7.05-7.17](link)|Miheer Dewaskar
+|**October 10**| Strong Markov Property, Skorohod representation | [Pages 7.05-7.16](https://www.dropbox.com/s/j2m1inqw7ya6l3p/2017_FA_Lecture-7.pdf?dl=0)|Miheer Dewaskar
 |**October 12**| No class | <a href="Freedom"><img src="https://media.giphy.com/media/aiE3JQU3vLqTK/giphy.gif" align="left" height="100" width="200" ></a>| - 
 |![alt text](/img/dog_6.png)|Homework 5|[See file](https://www.dropbox.com/s/1yuk2o3ra92116a/2017_FA_Assignment5.pdf?dl=0) |Scribe
-
+|**October 17**| Donsker's Theorem, Martingale FCLT | [Pages 7.17-7.26](https://www.dropbox.com/s/j2m1inqw7ya6l3p/2017_FA_Lecture-7.pdf?dl=0)|Scribe
 
 # **Main references: Weak convergence**
 
