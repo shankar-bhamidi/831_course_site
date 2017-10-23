@@ -61,10 +61,10 @@ I am planning to hold a focused module on local weak convergence on Fridays star
 | Date of Lecture| Material covered | Notes | Scribe|
 |-------------------|---------------------------|-----------------------------|------------------|
 |<span style="color:red">**October 27**</span>|<span style="color:red">Basics of local weak convergence</span> | [Lecture 1 on LWC](https://www.dropbox.com/s/kre6z3fb84vsusr/2017_FA_Local%20weak%20convergence_1.pdf?dl=0)|Scribe
-|<span style="color:red">**November 3**</span>|<span style="color:red">Application to factor models 1</span> | [Lecture 2 on LWC](https://www.dropbox.com/s/crgc55cocmo5qiz/2017_FA_Local%20weak%20convergence_2.pdf?dl=0)|Scribe
-|<span style="color:red">**November 10**</span>|<span style="color:red">Application to factor models 2</span> | [Material](Material) |Scribe
-|<span style="color:red">**November 17**</span>|<span style="color:red">Material</span> | [Material](Material)|Scribe
-|<span style="color:red">**December 1**</span>|<span style="color:red">Material</span> | [Material](Material)|Scribe
+|<span style="color:red">**November 3**</span>|<span style="color:red">Introduction to factor models</span> | [Lecture 2 on LWC](https://www.dropbox.com/s/crgc55cocmo5qiz/2017_FA_Local%20weak%20convergence_2.pdf?dl=0)|Scribe
+|<span style="color:red">**November 10**</span>|<span style="color:red">Belief propogation; LWC and the Ising model on sparse graphs</span> | [Lecture 3 on LWC](https://www.dropbox.com/s/ek86s5zauapmzv0/2017_FA_Local%20weak%20convergence_3.pdf?dl=0) |Scribe
+|<span style="color:red">**November 17**</span>|<span style="color:red">Recursive distributional equations; going from trees to graphs</span> | [Material](Material)|Scribe
+|<span style="color:red">**December 1**</span>|<span style="color:red">LWC for weighted network models</span> | [Material](Material)|Scribe
 
 
 # **Main references: Weak convergence**
@@ -83,6 +83,8 @@ Fantastic treatment of the Martingale FCLT in Chapter 8.
 3. [Dembo and Montanari's work on Gibbs measures on sparse random graphs](https://projecteuclid.org/euclid.bjps/1271770268). Also see their [Annals of  Probability paper.](https://projecteuclid.org/euclid.aoap/1268143433)
 
 4. [Side reading: Chapter 8 of Bishop's pattern recognition and machine learning](http://www.springer.com/us/book/9780387310732). Gives a nice overview of probabilistic graphical models. In particular Section 4 on message passing algorithms and their role in computing marginal distributions in the context of Markov random fields especially when the graphical structure is tree like was a fun read. 
+
+5. [Montanari's St. Flour lecture notes](https://www.dropbox.com/s/u7ewrjpcktrp3db/stflour-montannari_2.pdf?dl=0). Gives a number of complete proofs and a concise overview of the field. 
 
 # **Additional Readings**
 
