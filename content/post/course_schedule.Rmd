@@ -187,15 +187,17 @@ As one might imagine, references for Brownian motion are almost infinite. The fo
 
 See the main references for applications in settings like Factor models and machine learning. For more specialized applications:
 
-- [Graphical models and compressed sensing (Montanari):](https://arxiv.org/pdf/1011.4328) Surveys how message passing algorithms can be used to understand fundamental objects like the LASSO. See [Donoho,Malekib and Montanari](http://www.pnas.org/content/106/45/18914.abstract) for a more technical description of the contributions. One line blurb from the abstract: "*We introduce a simple costless modification to iterative thresholding making the sparsity–undersampling tradeoff of the new algorithms equivalent to that of the corresponding convex optimization procedures. The new iterative-thresholding algorithms are inspired by belief propagation in graphical models. Our empirical measurements of the sparsity–undersampling tradeoff for the new algorithms agree with theoretical calculations. We show that a state evolution formalism correctly derives the true sparsity–undersampling tradeoff.* "
+- [**Asymptotic Fringe convergence of random trees (Aldous)**](http://www.jstor.org/stable/pdf/2959767.pdf?refreqid=excelsior%3Adab502dd000b5d875724574041cdf929). One of the earliest papers on local weak convergence especially developed for trees. A classic!
+
+- [**Graphical models and compressed sensing (Montanari):**](https://arxiv.org/pdf/1011.4328) Surveys how message passing algorithms can be used to understand fundamental objects like the LASSO. See [Donoho,Malekib and Montanari](http://www.pnas.org/content/106/45/18914.abstract) for a more technical description of the contributions. One line blurb from the abstract: "*We introduce a simple costless modification to iterative thresholding making the sparsity–undersampling tradeoff of the new algorithms equivalent to that of the corresponding convex optimization procedures. The new iterative-thresholding algorithms are inspired by belief propagation in graphical models. Our empirical measurements of the sparsity–undersampling tradeoff for the new algorithms agree with theoretical calculations. We show that a state evolution formalism correctly derives the true sparsity–undersampling tradeoff.* "
 
 - **Random matrix theory**: See [Bordenave and Lelarge](http://onlinelibrary.wiley.com/doi/10.1002/rsa.20313/full); [Bhamidi, Evans, Sen](https://link.springer.com/article/10.1007/s10959-011-0360-9); See the following [survey by Bordenave and Chafai](http://emis.ams.org/journals/PS/images/getdocd7e0.pdf?id=772&article=183&mode=pdf) for a beautiful description of the state of the art and many more references. 
 
 - **Random Schrodinger operators**: See [Aizenmann and Warzel](http://www.springerlink.com/index/pdf/10.1007/s11040-007-9018-3) for rigorous results relating these problems to the "canopy" tree. 
 
-- [Strategic learning on networks: Mossel, Sly and Tamuz](http://onlinelibrary.wiley.com/doi/10.3982/ECTA12058/full)
+- [**Strategic learning on networks: Mossel, Sly and Tamuz**](http://onlinelibrary.wiley.com/doi/10.3982/ECTA12058/full)
 
-- [Large deviations for graphs: Bordenave and Caputo](http://link.springer.com/article/10.1007/s00440-014-0590-8)
+- [**Large deviations for graphs: Bordenave and Caputo**](http://link.springer.com/article/10.1007/s00440-014-0590-8)
 
 - **Applications of such ideas in optimization**: Here the number of applications are infinite! Just as a starting point, see for example 
 
