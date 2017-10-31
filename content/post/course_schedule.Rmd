@@ -208,6 +208,19 @@ and Sharma](http://ieeexplore.ieee.org/abstract/document/4455730/).
     
 - **Community detection**: See [Asymptotic analysis of the stochastic block model for modular networks and its algorithmic applications](https://arxiv.org/pdf/1109.3041.pdf) and the multitude of papers that cite this for understanding how accurate the predictions of such methodology are for predicting "reconstruction limits" of models. See the work of [Mossel, Neeman and Sly](http://proceedings.mlr.press/v35/mossel14.pdf) for a complete rigorous justification of these predictions. 
 
+<a name="rt">
+ **Random trees**
+</a>
+
+- We are mainly following this amazing survey on the state of the art: [Random trees and applications by Jean-Francois Le Gall](https://projecteuclid.org/euclid.ps/1132583290)
+
+- Another wonderful treatment: [Steve Evans St. Flour lecture notes](https://link.springer.com/book/10.1007%2F978-3-540-74798-7)
+
+- The following are the original Aldous classics: [CRT 1](https://projecteuclid.org/euclid.aop/1176990534), [CRT 2](https://www.stat.berkeley.edu/~aldous/Papers/me55.pdf) and [CRT 3](https://projecteuclid.org/euclid.aop/1176989404). 
+
+- [Quanta magazine article on Unified Theory of randomness](https://www.quantamagazine.org/a-unified-theory-of-randomness-20160802/)
+
+
 
 
 This page was last updated on `r Sys.time()` Eastern Time.
