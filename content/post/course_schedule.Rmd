@@ -55,8 +55,9 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |**October 17**| Donsker's Theorem, Martingale FCLT | [Pages 7.17-7.26](https://www.dropbox.com/s/j2m1inqw7ya6l3p/2017_FA_Lecture-7.pdf?dl=0)|Michael Conroy
 |**October 24**|Martingale FCLT, Application to Random graphs | [Pages 7.23-7.26](https://www.dropbox.com/s/j2m1inqw7ya6l3p/2017_FA_Lecture-7.pdf?dl=0) [Pages 8.1-1-8.1-6](https://www.dropbox.com/s/um9fc33ne58cfzk/2017_FA_Lecture8.1.pdf?dl=0) [Further reading](#crit)|Hang Yu
 |**October 26**|Application to Random graphs, Conditioned random walks | [Pages 8.1-6-8.1-9](https://www.dropbox.com/s/um9fc33ne58cfzk/2017_FA_Lecture8.1.pdf?dl=0), [Pages 8.2-1 - 8.2-4](https://www.dropbox.com/s/07f6zgcmi5gvmh3/2017_FA_Lecture8.2.pdf?dl=0)|Scribe
-|**October 31**|Conditioned random walks, Tightness estimates in $C[0,1]$, Introduction to Random trees | [Pages 8.2-4-8.2-17](https://www.dropbox.com/s/07f6zgcmi5gvmh3/2017_FA_Lecture8.2.pdf?dl=0), [Pages 8.3-xx - 8.3-yy](xx)|Scribe
+|**October 31**|Conditioned random walks, Tightness estimates in $C[0,1]$, Introduction to Random trees | [Pages 8.2-4-8.2-17](https://www.dropbox.com/s/07f6zgcmi5gvmh3/2017_FA_Lecture8.2.pdf?dl=0), [Pages 8.3-1 - 8.3-9](https://www.dropbox.com/s/eca7eo6frm7qkg5/2017_FA_Lecture8.3.pdf?dl=0)|Scribe
 |![alt text](/img/dog_8.png)|Homework 7 | [See file](https://www.dropbox.com/s/igl12q69z1muams/2017_FA_Assignment7.pdf?dl=0)|Scribe
+|**November 2**|Introduction to Random trees |[Pages 8.3-9 - 8.3-16](https://www.dropbox.com/s/eca7eo6frm7qkg5/2017_FA_Lecture8.3.pdf?dl=0), [Pages 8.4-1 - 8.4-28](https://www.dropbox.com/s/eca7eo6frm7qkg5/2017_FA_Lecture8.3.pdf?dl=0), [Further reading](#rt) |Scribe
 
 # **Local weak convergence Lectures** 
 <a name="lwc-sched"></a>
@@ -82,10 +83,11 @@ The last few days of the semester we will have student talks. I will setup the s
 
 | Date of Lecture| Speaker | Topic | Report|
 |-------------------|---------------------------|-----------------------------|------------------|
-| xxx| Miheer Dewaskar | Concentration inequalities using Exchangeable pairs | Report|
+| xxx| Miheer Dewaskar | *Concentration inequalities using Exchangeable pairs* | Report|
 |xxx | Hang Yu/Xi Yang | Topic | Report|
 |xxx | Michael Conroy/Adam Waterbury | Large deviations and xxx | Report|
-|xxx |Samopriya Basu | Random trees and xxx | Report|
+|xxx |Samopriya Basu | *Around the continuum random tree* [**Chapter 2 of Evans**](https://link.springer.com/content/pdf/10.1007%2F978-3-540-74798-7.pdf) | Report|
+|xxx |Yiyao Lu |*Change point detection, CUSUM statistic* | Report|
 
 # **Main references: Weak convergence**
 
@@ -219,6 +221,8 @@ and Sharma](http://ieeexplore.ieee.org/abstract/document/4455730/).
 - The following are the original Aldous classics: [CRT 1](https://projecteuclid.org/euclid.aop/1176990534), [CRT 2](https://www.stat.berkeley.edu/~aldous/Papers/me55.pdf) and [CRT 3](https://projecteuclid.org/euclid.aop/1176989404). 
 
 - [Quanta magazine article on Unified Theory of randomness](https://www.quantamagazine.org/a-unified-theory-of-randomness-20160802/)
+
+- [Application of trees in CS: Quora discussion](https://www.quora.com/What-is-the-real-life-application-of-tree-data-structures)
 
 
 
