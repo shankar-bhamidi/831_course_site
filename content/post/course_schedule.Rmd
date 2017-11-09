@@ -207,7 +207,7 @@ See the main references for applications in settings like Factor models and mach
 
 - **Random matrix theory**: See [Bordenave and Lelarge](http://onlinelibrary.wiley.com/doi/10.1002/rsa.20313/full); [Bhamidi, Evans, Sen](https://link.springer.com/article/10.1007/s10959-011-0360-9); See the following [survey by Bordenave and Chafai](http://emis.ams.org/journals/PS/images/getdocd7e0.pdf?id=772&article=183&mode=pdf) for a beautiful description of the state of the art and many more references. 
 
-- **Random Schrodinger operators**: See [Aizenmann and Warzel](http://www.springerlink.com/index/pdf/10.1007/s11040-007-9018-3) for rigorous results relating these problems to the "canopy" tree. 
+- **Random Schrodinger operators**: See [Aizenmann and Warzel](https://arxiv.org/abs/math-ph/0607021) for rigorous results relating these problems to the "canopy" tree. 
 
 - [**Strategic learning on networks: Mossel, Sly and Tamuz**](http://onlinelibrary.wiley.com/doi/10.3982/ECTA12058/full)
 
