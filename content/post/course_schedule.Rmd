@@ -63,6 +63,11 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |**November 14**|Tightness etc in $D[0,1]$ |[Pages 9.19 - 9.30](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading](#d01) |Scribe
 |**November 16**|Applications of $D[0,1]$ |[Pages 10.01 - 10.xx](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading](#d01) |Scribe
 |![alt text](/img/dog_9.png)|Homework 8 | [See file](https://www.dropbox.com/s/u9tlch9ht35u5xg/2017_FA_Assignment8.pdf?dl=0)|Scribe
+|**November 21**|Weak convergence of random measures|[Pages 11.01 - 11.24](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading]() |Scribe
+|**November 27**|Advanced topics|[xxx](xxx), [Further reading]() |Scribe
+|**November 30**|Student talks 1|See [Talks](#student) below for Schedule  |Scribe
+|**December 5**|Student talks 2|See [Talks](#student) below for Schedule |Scribe
+
 
 # **Local weak convergence Lectures** 
 <a name="lwc-sched"></a>
@@ -81,7 +86,11 @@ I am planning to hold a focused module on local weak convergence on Fridays star
 In addition to the references below see [further readings on Local weak convergence](#lwc-fur) for more research level papers on this topic from a wide array of fields. 
 
 
+<a name="student">
+</a>
+
 # **Student talks**
+
 
 The last few days of the semester we will have student talks. I will setup the schedule after I have the entire list, but I have started collecting proposed topics below. 
 
