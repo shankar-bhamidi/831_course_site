@@ -98,7 +98,7 @@ The last few days of the semester we will have student talks. I will setup the s
 | Date of Lecture| Speaker | Topic | Report|
 |-------------------|---------------------------|-----------------------------|------------------|
 | |<span style="color:red">**#Day 1#**</span> |<span style="color:red">**# Day 1#**</span> | |
-|11/30 (8:00-8:10)| Miheer Dewaskar | *Concentration inequalities using Exchangeable pairs* | Report|
+|11/30 (8:00-8:10)| Miheer Dewaskar | [*Graph Limits and Exchangeable Random Graphs*](https://arxiv.org/pdf/0712.2749.pdf) | Report|
 |11/30 (8:12 - 8:22) | Hang Yu/Xi Yang | *Random matrix theory and statistics* | Report|
 |11/30 (8:24 - 8:34) | Michael Conroy/Adam Waterbury | *Large deviations and Erdos-Renyi random graph* | Report|
 |11/30 (8:36 - 8:46) |Samopriya Basu | *Around the continuum random tree* [**Chapter 2 of Evans**](https://link.springer.com/content/pdf/10.1007%2F978-3-540-74798-7.pdf) | Report|
