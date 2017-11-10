@@ -97,17 +97,20 @@ The last few days of the semester we will have student talks. I will setup the s
 
 | Date of Lecture| Speaker | Topic | Report|
 |-------------------|---------------------------|-----------------------------|------------------|
-| xxx| Miheer Dewaskar | *Concentration inequalities using Exchangeable pairs* | Report|
-|xxx | Hang Yu/Xi Yang | *Random matrix theory and statistics* | Report|
-|xxx | Michael Conroy/Adam Waterbury | *Large deviations and Erdos-Renyi random graph* | Report|
-|xxx |Samopriya Basu | *Around the continuum random tree* [**Chapter 2 of Evans**](https://link.springer.com/content/pdf/10.1007%2F978-3-540-74798-7.pdf) | Report|
-|xxx |Peiyao Wang |*Approximate message passing and compressed sensing* | Report|
-|xxx |Yiyao Lu |*Change point detection, CUSUM statistic* | Report|
-|xxx |Ruituo Fan |*Local weak convergence and probabilistic combinatorial optimization*| Report|
-|xxx |Aman Barot |*Asymptotic Fringe convergence of random trees* | Report|
-|xxx |Duyeol Lee/Zhengling Qi |*Central Limit Theorems and Bootstrap in High Dimensions*| Report|
-|xxx |Weibin Mo |*Non and semi-parametric MLE*| Report|
-|xxx |Yiyun Luo |*Random planar maps*| Report|
+| |<span style="color:red">**#Day 1#**</span> |<span style="color:red">**# Day 1#**</span> | |
+|11/30 (8:00-8:10)| Miheer Dewaskar | *Concentration inequalities using Exchangeable pairs* | Report|
+|11/30 (8:12 - 8:22) | Hang Yu/Xi Yang | *Random matrix theory and statistics* | Report|
+|11/30 (8:24 - 8:34) | Michael Conroy/Adam Waterbury | *Large deviations and Erdos-Renyi random graph* | Report|
+|11/30 (8:36 - 8:46) |Samopriya Basu | *Around the continuum random tree* [**Chapter 2 of Evans**](https://link.springer.com/content/pdf/10.1007%2F978-3-540-74798-7.pdf) | Report|
+|11/30 (8:48 - 8:58) |Peiyao Wang |*Approximate message passing and compressed sensing* | Report|
+|11/30 (9:00 - 9:10) |Yiyao Lu |*Change point detection, CUSUM statistic* | Report|
+| |<span style="color:red">**#End of Day 1#**</span> |<span style="color:red">**#End of Day 1#**</span> | |
+| |<span style="color:red">**#Day 2#**</span> |<span style="color:red">**# Day 2#**</span> | |
+|12/05 (8:00 - 8:10) |Ruituo Fan |*Local weak convergence and probabilistic combinatorial optimization*| Report|
+|12/05 (8:12 - 8:22) |Aman Barot |*Asymptotic Fringe convergence of random trees* | Report|
+|12/05 (8:24 - 8:34) |Duyeol Lee/Zhengling Qi |*Central Limit Theorems and Bootstrap in High Dimensions*| Report|
+|12/05 (8:36 - 8:46) |Weibin Mo |*Non and semi-parametric MLE*| Report|
+|12/05 (8:48 - 8:58) |Yiyun Luo |*Random planar maps*| Report|
 
 
 # **Main references: Weak convergence**
