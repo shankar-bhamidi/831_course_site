@@ -77,8 +77,8 @@ I am planning to hold a focused module on local weak convergence on Fridays star
 | Date of Lecture| Material covered | Notes | Scribe|
 |-------------------|---------------------------|-----------------------------|------------------|
 |<span style="color:red">**October 27**</span>|<span style="color:red">Basics of local weak convergence</span> | [Lecture 1 on LWC](https://www.dropbox.com/s/kre6z3fb84vsusr/2017_FA_Local%20weak%20convergence_1.pdf?dl=0)|Xi Yang [tex](https://www.dropbox.com/s/cd6nblh3ewm2fya/Lecture1onLWC-1.tex?dl=0), [pdf](https://www.dropbox.com/s/f0s38ztcontdsji/Lecture1onLWC.pdf?dl=0)
-|<span style="color:red">**November 3**</span>|<span style="color:red">Introduction to factor models</span> | [Lecture 2 on LWC](https://www.dropbox.com/s/crgc55cocmo5qiz/2017_FA_Local%20weak%20convergence_2.pdf?dl=0)|Scribe
-|<span style="color:red">**November 10**</span>|<span style="color:red">Belief propogation; LWC and the Ising model on sparse graphs</span> | [Lecture 3 on LWC](https://www.dropbox.com/s/ek86s5zauapmzv0/2017_FA_Local%20weak%20convergence_3.pdf?dl=0) |Scribe
+|<span style="color:red">**November 3**</span>|<span style="color:red">Introduction to factor models</span> | [Lecture 2 on LWC](https://www.dropbox.com/s/jzniw73mzwqwyrb/2017_FA_Local%20weak%20convergence_2.pdf?dl=0)|Scribe
+|<span style="color:red">**November 10**</span>|<span style="color:red">Belief propogation; LWC and the Ising model on sparse graphs</span> | [Lecture 3 on LWC](https://www.dropbox.com/s/g1i26s3rt2rel3b/2017_FA_Local%20weak%20convergence_3.pdf?dl=0) |Scribe
 |<span style="color:red">**November 17**</span>|<span style="color:red">Recursive distributional equations; going from trees to graphs</span> | [Material](Material)|Scribe
 |<span style="color:red">**December 1**</span>|<span style="color:red">LWC for weighted network models</span> | [Material](Material)|Scribe
 |![alt text](/img/dog_7.png)|Homework 6 | See [file](https://www.dropbox.com/s/sjpfa347ozm9j20/2017_FA_Assignment6.pdf?dl=0)|Scribe
