@@ -45,7 +45,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |**September 21**| Poisson approximation, MOM, Characteristic functions | [Pages 4.Poi-4.34](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), , [Additional readings on MOM](#mom) |Jin Wang
 |<span style="color:red">**September 22**</span>| <span style="color:red">**Practicum: Stein's method**</span> | <span style="color:red"> [Notes](https://www.dropbox.com/s/ek05bkjgjwx4pwa/Practicum_Steins_method.pdf?dl=0), [Additional readings](#stein) </span> | Peiyao Wang 
 |**September 26**|Characteristic functions, Enter $C[0,1]$| [Pages 4.34-4.35](https://www.dropbox.com/s/vkrxs8wxt156k2s/2017_FA_Lecture-4.pdf?dl=0), [Pages 5.1 - 5.11](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0), [Additional readings on Arzela-Ascoli](#AS) |Scribe
-|**September 28**| $C[0,1]$ continued | [Pages 5.11-6.04](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0)|Scribe
+|**September 28**| $C[0,1]$ continued | [Pages 5.11-6.04](https://www.dropbox.com/s/8tqsh27pd9zqncn/2017_FA_Lecture-5%20.pdf?dl=0)|Zhengling Qi
 |**October 3**| Properties of Brownian motion | [Pages 6.04-6.16](https://www.dropbox.com/s/whfvgd9agpcs1q1/2017_FA_Lecture-6.pdf?dl=0), [Additional readings on Brownian Motion](#bm)|Duyeol Lee
 |**October 5**| Properties of Brownian motion contd | [Pages 6.16-7.04](https://www.dropbox.com/s/whfvgd9agpcs1q1/2017_FA_Lecture-6.pdf?dl=0)|Miheer Dewaskar
 |![alt text](/img/dog_4.png)|Homework 4|[See file](https://www.dropbox.com/s/1hw37z5u4f29eml/2017_FA_Assignment4.pdf?dl=0) |Scribe
@@ -63,7 +63,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |**November 14**|Tightness etc in $D[0,1]$ |[Pages 9.19 - 9.30](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading](#d01) |Scribe
 |**November 16**|Applications of $D[0,1]$ |[Pages 10.01 - 10.xx](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading](#d01) |Scribe
 |![alt text](/img/dog_9.png)|Homework 8 | [See file](https://www.dropbox.com/s/u9tlch9ht35u5xg/2017_FA_Assignment8.pdf?dl=0)|Scribe
-|**November 21**|Weak convergence of random measures|[Pages 11.01 - 11.24](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading]() |Scribe
+|**November 21**|Weak convergence of random measures|[Pages 11.01 - 11.24](https://www.dropbox.com/s/ktnznas5lrypoio/2017_FA_Lecture11.pdf?dl=0), [Further reading](#rand_measures) |Scribe
 |**November 27**|Advanced topics|[xxx](xxx), [Further reading]() |Scribe
 |**November 30**|Student talks 1|See [Talks](#student) below for Schedule  |Scribe
 |**December 5**|Student talks 2|See [Talks](#student) below for Schedule |Scribe
@@ -259,6 +259,41 @@ I still do not have great intuition for this space. In addition to the Chapter i
 - [Chapter 6 of Jacod and Shiryaev's book on Limit Theorems for Stochastic Processes](http://www.springer.com/us/book/9783540439325)
 
 - [Chapter 3 of Ethier and Kurtz's book on Markov processes](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047176986X.html)
+
+<a name="rand_measures">
+ **Random measures**
+</a>
+
+- The beginning of Chapter 3 of Ethier and Kurtz's book on Markov processes as well as the 2000 edition of Billingsley do a great job in conveying how to view the space of probability measures $\mathcal{P}(S)$ on a Polish space as complete seperable metric space using the Skorohod topology. 
+
+- For the most comprehensive treatment see [Kallenberg's masterful treatment](http://www.springer.com/us/book/9783319415963) in 2017. I mainly consulted the beginning of Chatper 1 and a little bit of Chapter 4. In particular the notion of a problem dependent "localizing" sequence was at first sight non-trivial to wrap my head around. 
+
+- Regarding random matrix theory, there are so many wonderful books and such deep results. For a quick overview, especially regarding the moment method, see this beautiful senior honor's thesis [Harvard thesis by Adina Roxanan Feier](http://www.math.harvard.edu/theses/senior/feier/feier.pdf).
+
+
+# **Topics to cover next time I teach this course**
+
+### **During regular class times**
+
+- More details for the Skorohod topology, in particular Aldous's condition for checking tightness in $D[0,\infty)$.
+
+- Proving FCLT for Markov chain functionals, see for example [Timo's notes](https://www.math.wisc.edu/~seppalai/courses/833/cltnotes.pdf). This would be a nice example of using the Martingale FCLT and perhaps even an example in $D[0,1]$ methodology. 
+
+### **During practicum sessions**
+
+- More local weak convergence including some random matrix theory for adjacency matrices as well as combinatorial optimization. 
+
+- Basic introduction to Empirical process theory. 
+
+- Prohorov metric and Dudley's coupling argument. 
+
+- Other distances on the space of Cadlag paths. 
+
+- More problems done by students including more HW problems. 
+
+- Martingale FCLT and Polya Urns including the argument in this [beautiful paper by Chris Heyde](http://www.jstor.org/stable/3213349?pq-origsite=summon&seq=1#page_scan_tab_contents). 
+
+- Applications to Statistics? 
 
 
 This page was last updated on `r Sys.time()` Eastern Time.
