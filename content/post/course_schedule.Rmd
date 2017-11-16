@@ -61,9 +61,11 @@ tr:nth-child(even) {background-color: #f2f2f2}
 |**November 7**|Random trees; Introduction to $D[0,1]$; Skorohod topology |[Pages 8.4-16 - 8.4-27](https://www.dropbox.com/s/3e5l2z9uii4nol5/2017_FA_Lecture8.4.pdf?dl=0), [Pages 9.1 - 9.04](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading](#d01) |Scribe
 |**November 9**|Introduction to $D[0,1]$; Skorohod topology |[Pages 9.04 - 9.19](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading](#d01) |Weibin Mo
 |**November 14**|Tightness etc in $D[0,1]$ |[Pages 9.19 - 9.30](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading](#d01) |Scribe
-|**November 16**|Applications of $D[0,1]$ |[Pages 10.01 - 10.xx](https://www.dropbox.com/s/lq7uaibi4bpej62/2017_FA_Lecture9.pdf?dl=0), [Further reading](#d01) |Scribe
 |![alt text](/img/dog_9.png)|Homework 8 | [See file](https://www.dropbox.com/s/u9tlch9ht35u5xg/2017_FA_Assignment8.pdf?dl=0)|Scribe
+|**November 16**|Applications of $D[0,1]$ |[Pages 10.01 - 10.end](https://www.dropbox.com/s/gmjkwtkbp6k1vks/2017_FA_Lecture10.pdf?dl=0), [Further reading](#d01) |Scribe
+|![alt text](/img/dog_10.png)|Homework Cauchy Process capstone | [See file](https://www.dropbox.com/s/iq17nncb7ggpng9/2017_FA_Assignment_Cauchy_capstone.pdf?dl=0)|Scribe
 |**November 21**|Weak convergence of random measures|[Pages 11.01 - 11.24](https://www.dropbox.com/s/ktnznas5lrypoio/2017_FA_Lecture11.pdf?dl=0), [Further reading](#rand_measures) |Scribe
+|![alt text](/img/dog_11.png)|Homework random measures capstone | [See file](https://www.dropbox.com/s/ttdfafloshsc1fl/2017_FA_Assignment9.pdf?dl=0)|Scribe
 |**November 27**|Advanced topics|[xxx](xxx), [Further reading]() |Scribe
 |**November 30**|Student talks 1|See [Talks](#student) below for Schedule  |Scribe
 |**December 5**|Student talks 2|See [Talks](#student) below for Schedule |Scribe
@@ -269,6 +271,10 @@ I still do not have great intuition for this space. In addition to the Chapter i
 - For the most comprehensive treatment see [Kallenberg's masterful treatment](http://www.springer.com/us/book/9783319415963) in 2017. I mainly consulted the beginning of Chatper 1 and a little bit of Chapter 4. In particular the notion of a problem dependent "localizing" sequence was at first sight non-trivial to wrap my head around. 
 
 - Regarding random matrix theory, there are so many wonderful books and such deep results. For a quick overview, especially regarding the moment method, see this beautiful senior honor's thesis [Harvard thesis by Adina Roxanan Feier](http://www.math.harvard.edu/theses/senior/feier/feier.pdf).
+
+- [Tracy Widom law and "At the Far Ends of a New Universal Law"](https://www.quantamagazine.org/beyond-the-bell-curve-a-new-universal-law-20141015/)
+
+- [Terrence Tao's notes/book on random matrix theory](https://terrytao.files.wordpress.com/2011/02/matrix-book.pdf)
 
 
 # **Topics to cover next time I teach this course**
