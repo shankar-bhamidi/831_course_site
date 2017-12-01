@@ -80,8 +80,8 @@ I am planning to hold a focused module on local weak convergence on Fridays star
 |-------------------|---------------------------|-----------------------------|------------------|
 |<span style="color:red">**October 27**</span>|<span style="color:red">Basics of local weak convergence</span> | [Lecture 1 on LWC](https://www.dropbox.com/s/kre6z3fb84vsusr/2017_FA_Local%20weak%20convergence_1.pdf?dl=0)|Xi Yang [tex](https://www.dropbox.com/s/cd6nblh3ewm2fya/Lecture1onLWC-1.tex?dl=0), [pdf](https://www.dropbox.com/s/f0s38ztcontdsji/Lecture1onLWC.pdf?dl=0)
 |<span style="color:red">**November 3**</span>|<span style="color:red">Introduction to factor models</span> | [Lecture 2 on LWC](https://www.dropbox.com/s/jzniw73mzwqwyrb/2017_FA_Local%20weak%20convergence_2.pdf?dl=0)|Scribe
-|<span style="color:red">**November 10**</span>|<span style="color:red">Belief propogation; LWC and the Ising model on sparse graphs</span> | [Lecture 3 on LWC](https://www.dropbox.com/s/g1i26s3rt2rel3b/2017_FA_Local%20weak%20convergence_3.pdf?dl=0) |Scribe
-|<span style="color:red">**November 17**</span>|<span style="color:red">Recursive distributional equations; going from trees to graphs</span> | [Material](Material)|Scribe
+|<span style="color:red">**November 10**</span>|<span style="color:red">Belief propogation; LWC and the Ising model on sparse graphs</span> | [Lecture 3 on LWC](https://www.dropbox.com/s/0co6g13ys5136yp/2017_FA_Local_weak_convergence_3.pdf?dl=0) |Scribe
+|<span style="color:red">**November 17**</span>|<span style="color:red">Recursive distributional equations; going from trees to graphs</span> | [Lecture 4 on LWC](https://www.dropbox.com/s/8e5n9bgyjfyqokk/2017_Local%20weak_convergence_4.pdf?dl=0l)|Scribe
 |<span style="color:red">**December 1**</span>|<span style="color:red">LWC for weighted network models</span> | [Material](Material)|Scribe
 |![alt text](/img/dog_7.png)|Homework 6 | See [file](https://www.dropbox.com/s/sjpfa347ozm9j20/2017_FA_Assignment6.pdf?dl=0)|Scribe
 
@@ -100,19 +100,19 @@ The last few days of the semester we will have student talks. I will setup the s
 | Date of Lecture| Speaker | Topic | Report|
 |-------------------|---------------------------|-----------------------------|------------------|
 | |<span style="color:red">**#Day 1#**</span> |<span style="color:red">**# Day 1#**</span> | |
-|11/30 (8:00-8:10)| Miheer Dewaskar | [*Graph Limits and Exchangeable Random Graphs*](https://arxiv.org/pdf/0712.2749.pdf) | Report|
-|11/30 (8:12 - 8:22) | Hang Yu/Xi Yang | *Random matrix theory and statistics* | Report|
-|11/30 (8:24 - 8:34) | Michael Conroy/Adam Waterbury | *Large deviations and Erdos-Renyi random graph* | Report|
-|11/30 (8:36 - 8:46) |Samopriya Basu | *Around the continuum random tree* [**Chapter 2 of Evans**](https://link.springer.com/content/pdf/10.1007%2F978-3-540-74798-7.pdf) | Report|
-|11/30 (8:48 - 8:58) |Peiyao Wang |*Approximate message passing and compressed sensing* | Report|
-|11/30 (9:00 - 9:10) |Yiyao Lu |*Change point detection, CUSUM statistic* | Report|
+|11/30 (8:00-8:10)| Miheer Dewaskar | [*Graph Limits and Exchangeable Random Graphs*](https://arxiv.org/pdf/0712.2749.pdf) |[Talk](https://www.dropbox.com/s/npk7gd5au6agyql/miheer.pdf?dl=0) [Report]()|
+|11/30 (8:12 - 8:22) | Hang Yu/Xi Yang | *Random matrix theory and statistics* | [Talk]() [Report](https://www.dropbox.com/s/m241y138092ljic/xi_hang.pdf?dl=0)|
+|11/30 (8:24 - 8:34) | Michael Conroy/Adam Waterbury | *Large deviations and Erdos-Renyi random graph* | [Talk](https://www.dropbox.com/s/frl2339qawnlju2/adam_michael.pdf?dl=0) [Report]()|
+|11/30 (8:36 - 8:46) |Samopriya Basu | *Around the continuum random tree* [**Chapter 2 of Evans**](https://link.springer.com/content/pdf/10.1007%2F978-3-540-74798-7.pdf) |[Talk](https://www.dropbox.com/s/k0yw2a14zz2pzpu/basu.pdf?dl=0) [Report]()|
+|11/30 (8:48 - 8:58) |Peiyao Wang |*Approximate message passing and compressed sensing* | [Talk](https://www.dropbox.com/s/ebro85ryzsf0f1l/Peiyao.pdf?dl=0) [Report]()|
+|11/30 (9:00 - 9:10) |Yiyao Lu |*Change point detection, CUSUM statistic* | [Talk](https://www.dropbox.com/s/da5puscseilficd/yiyao.pdf?dl=0) [Report]()|
 | |<span style="color:red">**#End of Day 1#**</span> |<span style="color:red">**#End of Day 1#**</span> | |
 | |<span style="color:red">**#Day 2#**</span> |<span style="color:red">**# Day 2#**</span> | |
-|12/05 (8:00 - 8:10) |Ruituo Fan |*Local weak convergence and probabilistic combinatorial optimization*| Report|
-|12/05 (8:12 - 8:22) |Aman Barot |*Asymptotic Fringe convergence of random trees* | Report|
-|12/05 (8:24 - 8:34) |Duyeol Lee/Zhengling Qi |*Central Limit Theorems and Bootstrap in High Dimensions*| Report|
-|12/05 (8:36 - 8:46) |Weibin Mo |*Non and semi-parametric MLE*| Report|
-|12/05 (8:48 - 8:58) |Yiyun Luo |*Random planar maps*| Report|
+|12/05 (8:00 - 8:10) |Ruituo Fan |*Local weak convergence and probabilistic combinatorial optimization*| [Talk](https://www.dropbox.com/s/jlvs19auov15jj7/1_Ruituo%20Fan.pdf?dl=0) [Report](https://www.dropbox.com/s/dsm4apurxpzh7bv/Final%20Report%20for%20STOR%20831_Ruituo%20Fan.pdf?dl=0)|
+|12/05 (8:12 - 8:22) |Aman Barot |*Asymptotic Fringe convergence of random trees* | [Talk]() [Report]()|
+|12/05 (8:24 - 8:34) |Duyeol Lee/Zhengling Qi |*Central Limit Theorems and Bootstrap in High Dimensions*| [Talk]() [Report]()|
+|12/05 (8:36 - 8:46) |Weibin Mo |*Non and semi-parametric MLE*| [Talk]() [Report]()|
+|12/05 (8:48 - 8:58) |Yiyun Luo |*Random planar maps*| [Talk]() [Report]()|
 
 
 # **Main references: Weak convergence**
