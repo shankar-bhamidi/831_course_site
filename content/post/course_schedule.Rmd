@@ -105,7 +105,7 @@ The last few days of the semester we will have student talks. I will setup the s
 |11/30 (8:24 - 8:34) | Michael Conroy/Adam Waterbury | *Large deviations and Erdos-Renyi random graph* | [Talk](https://www.dropbox.com/s/frl2339qawnlju2/adam_michael.pdf?dl=0) [Report]()|
 |11/30 (8:36 - 8:46) |Samopriya Basu | *Around the continuum random tree* [**Chapter 2 of Evans**](https://link.springer.com/content/pdf/10.1007%2F978-3-540-74798-7.pdf) |[Talk](https://www.dropbox.com/s/k0yw2a14zz2pzpu/basu.pdf?dl=0) [Report]()|
 |11/30 (8:48 - 8:58) |Peiyao Wang |*Approximate message passing and compressed sensing* | [Talk](https://www.dropbox.com/s/ebro85ryzsf0f1l/Peiyao.pdf?dl=0) [Report]()|
-|11/30 (9:00 - 9:10) |Yiyao Lu |*Change point detection, CUSUM statistic* | [Talk](https://www.dropbox.com/s/da5puscseilficd/yiyao.pdf?dl=0) [Report]()|
+|11/30 (9:00 - 9:10) |Yiyao Luo |*Change point detection, CUSUM statistic* | [Talk](https://www.dropbox.com/s/da5puscseilficd/yiyao.pdf?dl=0) [Report](https://www.dropbox.com/s/8juergeips6msad/831_report_YiyaoLuo.pdf?dl=0)|
 | |<span style="color:red">**#End of Day 1#**</span> |<span style="color:red">**#End of Day 1#**</span> | |
 | |<span style="color:red">**#Day 2#**</span> |<span style="color:red">**# Day 2#**</span> | |
 |12/05 (8:00 - 8:10) |Ruituo Fan |*Local weak convergence and probabilistic combinatorial optimization*| [Talk](https://www.dropbox.com/s/jlvs19auov15jj7/1_Ruituo%20Fan.pdf?dl=0) [Report](https://www.dropbox.com/s/dsm4apurxpzh7bv/Final%20Report%20for%20STOR%20831_Ruituo%20Fan.pdf?dl=0)|
