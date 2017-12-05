@@ -101,7 +101,7 @@ The last few days of the semester we will have student talks. I will setup the s
 |-------------------|---------------------------|-----------------------------|------------------|
 | |<span style="color:red">**#Day 1#**</span> |<span style="color:red">**# Day 1#**</span> | |
 |11/30 (8:00-8:10)| Miheer Dewaskar | [*Graph Limits and Exchangeable Random Graphs*](https://arxiv.org/pdf/0712.2749.pdf) |[Talk](https://www.dropbox.com/s/npk7gd5au6agyql/miheer.pdf?dl=0) [Report]()|
-|11/30 (8:12 - 8:22) | Hang Yu/Xi Yang | *Random matrix theory and statistics* | [Talk]() [Report](https://www.dropbox.com/s/m241y138092ljic/xi_hang.pdf?dl=0)|
+|11/30 (8:12 - 8:22) | Hang Yu/Xi Yang | *Random matrix theory and statistics* | [Talk](https://www.dropbox.com/s/m241y138092ljic/xi_hang.pdf?dl=0) [Report](https://www.dropbox.com/s/868ywfr0yfqbpbm/STOR%20831%20Report%20Hang%20Yu%20%26%20Xi%20Yang.pdf?dl=0)|
 |11/30 (8:24 - 8:34) | Michael Conroy/Adam Waterbury | *Large deviations and Erdos-Renyi random graph* | [Talk](https://www.dropbox.com/s/frl2339qawnlju2/adam_michael.pdf?dl=0) [Report]()|
 |11/30 (8:36 - 8:46) |Samopriya Basu | *Around the continuum random tree* [**Chapter 2 of Evans**](https://link.springer.com/content/pdf/10.1007%2F978-3-540-74798-7.pdf) |[Talk](https://www.dropbox.com/s/k0yw2a14zz2pzpu/basu.pdf?dl=0) [Report]()|
 |11/30 (8:48 - 8:58) |Peiyao Wang |*Approximate message passing and compressed sensing* | [Talk](https://www.dropbox.com/s/ebro85ryzsf0f1l/Peiyao.pdf?dl=0) [Report]()|
@@ -109,10 +109,10 @@ The last few days of the semester we will have student talks. I will setup the s
 | |<span style="color:red">**#End of Day 1#**</span> |<span style="color:red">**#End of Day 1#**</span> | |
 | |<span style="color:red">**#Day 2#**</span> |<span style="color:red">**# Day 2#**</span> | |
 |12/05 (8:00 - 8:10) |Ruituo Fan |*Local weak convergence and probabilistic combinatorial optimization*| [Talk](https://www.dropbox.com/s/jlvs19auov15jj7/1_Ruituo%20Fan.pdf?dl=0) [Report](https://www.dropbox.com/s/dsm4apurxpzh7bv/Final%20Report%20for%20STOR%20831_Ruituo%20Fan.pdf?dl=0)|
-|12/05 (8:12 - 8:22) |Aman Barot |*Asymptotic Fringe convergence of random trees* | [Talk]() [Report]()|
-|12/05 (8:24 - 8:34) |Duyeol Lee/Zhengling Qi |*Central Limit Theorems and Bootstrap in High Dimensions*| [Talk]() [Report]()|
-|12/05 (8:36 - 8:46) |Weibin Mo |*Non and semi-parametric MLE*| [Talk]() [Report]()|
-|12/05 (8:48 - 8:58) |Yiyun Luo |*Random planar maps*| [Talk]() [Report]()|
+|12/05 (8:12 - 8:22) |Aman Barot |*Asymptotic Fringe convergence of random trees* | [Talk](https://www.dropbox.com/s/kvmv8glsezjkd8u/aman.pdf?dl=0) [Report]()|
+|12/05 (8:24 - 8:34) |Duyeol Lee/Zhengling Qi |*Central Limit Theorems and Bootstrap in High Dimensions*| [Talk](https://www.dropbox.com/s/fi8x30cafl5jqgv/Duyeol-Zhengling.pdf?dl=0) [Report]()|
+|12/05 (8:36 - 8:46) |Weibin Mo |*Non and semi-parametric MLE*| [Talk](https://www.dropbox.com/s/ldy0d90s47iwliq/weibin.pdf?dl=0) [Report]()|
+|12/05 (8:48 - 8:58) |Yiyun Luo |*Random planar maps*| [Talk](https://www.dropbox.com/s/2yillyeexy865k4/Yiyun.pdf?dl=0) [Report](https://www.dropbox.com/s/blf9k8o16mo9o0k/Yiyun_RandomPlanarMaps.pdf?dl=0)|
 
 
 # **Main references: Weak convergence**
